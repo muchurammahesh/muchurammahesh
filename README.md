@@ -26,7 +26,10 @@
 - **Spring Boot**  
 - **Microservices Architecture**  
 - **REST APIs**  
-- **SQL**, **MySQL**
+
+### 💾 Database:
+- **SQL**
+- **MySQL**
 
 ### 🌐 Frontend (Learning):
 - **HTML**
