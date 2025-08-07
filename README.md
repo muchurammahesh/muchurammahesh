@@ -2,13 +2,20 @@
 ### 🚀 A passionate Java Backend Developer
 
 ---
+👨‍💻 About Me:
 
-## 👨‍💻 About Me:
-- 🔭 I’m currently working as a **Java Backend Developer**  
-- 🌱 Exploring **Spring Boot**, **Microservices**, **Cloud Tools**, and **Frontend Technologies**  
-- 🛠️ Gaining hands-on experience with **CI/CD pipelines using Jenkins on AWS**  
-- 💬 Ask me about **Java, Spring Boot, REST APIs, SQL, and Backend Architecture**  
-- ⚡ Fun fact: I love optimizing code and debugging tricky backend issues!
+🎓 I'm a fresher with strong skills in Java backend development
+
+💡 I have hands-on knowledge of Spring Boot, Microservices, REST APIs, and SQL
+
+🌱 Currently exploring Frontend Technologies and Cloud Tools
+
+🛠️ Learning more about CI/CD pipelines using Jenkins on AWS
+
+💬 Ask me about Java, Spring Boot, REST APIs, SQL, and Backend Architecture
+
+⚡ Fun fact: I love optimizing code and debugging tricky backend issues!
+
 
 ---
 
