@@ -6,7 +6,7 @@
 
 🎓 I'm a fresher with strong skills in Java backend development
 
-💡 I have hands-on knowledge of Spring Boot, Microservices, REST APIs, and SQL
+💡 Proficient in Spring Boot, Microservices, REST APIs, and SQL
 
 🌱 Currently exploring Frontend Technologies and Cloud Tools
 
