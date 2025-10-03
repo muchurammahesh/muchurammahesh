@@ -1,91 +1,99 @@
-<!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muchuram%20Mahesh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+<!-- Banner / Header Wave -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=𝐌𝐮𝐜𝐡𝐮𝐫𝐚𝐦 𝐌𝐚𝐡𝐞𝐬𝐡 🚀&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 <!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Muchuram+Mahesh!;Java+Full+Stack+Developer;LeetCode+%7C+GitHub+Contributor;Spring+Boot+%7C+Microservices+%7C+React;Problem+Solver+%7C+Open+Source+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+👋+I'm+Muchuram+Mahesh!;Java+Full+Stack+Developer;Problem+Solver+%7C+Open+Source;Cloud+%26+DevOps+Explorer" alt="Typing Intro" />
 </p>
 
 ---
 
-# 👋 About Me  
-
-💻 Passionate and results-driven **Java Full Stack Developer** with expertise in **Java, Spring Boot, React.js, Hibernate, MySQL, and Microservices**.  
-🌱 Exploring **Cloud & DevOps (AWS, Docker, Jenkins, CI/CD)** while mastering **DSA**.  
-🚀 Strong foundation in **data structures & algorithms**, enabling efficient and scalable solutions.  
-✨ Motto: *“Keep learning, never stop building.”*  
+## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞  
+💻 Experienced **Java Full Stack Developer** with a passion for building resilient, scalable systems.  
+☁ Exploring **Cloud & DevOps** (AWS, Docker, Jenkins) while sharpening DSA and architectural patterns.  
+🚀 I build with focus, learn constantly, and deliver with care.  
 
 ---
 
-# 【 SKILLS 】  
+## 【 𝐒𝐊𝐈𝐋𝐋𝐒 】
 
-| Programming | Backend | Frontend | Databases | Cloud / DevOps | Tools & Testing |
-|-------------|---------|----------|-----------|----------------|-----------------|
-| **Java (Core & Advanced)** ☕ ✅🔥 | **Spring Boot** 🌱, Spring Framework, Spring Security ⚡ | **React.js (ES6+)** ⚛ ⭐ | **MySQL, SQL, H2** 🛢 ⚡ | **AWS** ☁, **Docker** 🐳, **Jenkins (CI/CD)** ⚙️ ⚡ | Git, GitHub, Maven, Postman, Swagger ✅ |
-| **DSA & Problem Solving** 📊 🔥 | **Microservices** (Eureka, Config Server, API Gateway, Feign) ⭐ | HTML5, CSS3, JavaScript, Bootstrap 🎨 ✅ | Hibernate ORM & Entity Mapping ⚙️ ⭐ | DevOps Exposure 🚀 ⭐ | JUnit, Mockito, SonarQube 🧪 ⚡ |
-
----
-
-# 🚀 Projects  
-
-🔹 **ClaimConnect** – Insurance Claim System using Spring Boot Microservices + React.  
-🔹 **MedSync** – Hospital Management with JWT Security, MySQL & REST APIs.  
-🔹 **Travel Booking System** – Console-based trip planner using Java + JDBC.  
-
-👉 *More projects on my GitHub → [muchurammahesh](https://github.com/muchurammahesh)*  
+| **Domain** | **Skills / Technologies** |
+|------------|-----------------------------|
+| **Programming & Logic** | Java (Core & Advanced) ☕ · DSA & Problem Solving 📊 |
+| **Backend & Architecture** | Spring Boot, Spring Framework, Spring Security · Microservices (Eureka, Gateway, Config, Feign) |
+| **ORM & Persistence** | Hibernate, JPA, Entity Mapping |
+| **Frontend** | React.js (ES6+) · HTML5, CSS3, JavaScript, Bootstrap |
+| **APIs & Integration** | RESTful APIs · JWT · API integration |
+| **Database** | MySQL, SQL, H2 |
+| **DevOps / Cloud** | AWS · Docker · Jenkins / CI-CD |
+| **Tools / Testing** | Git, GitHub, Maven, Postman, Swagger · JUnit, Mockito, SonarQube |
 
 ---
 
-# 📊 GitHub Stats  
+## 【 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒 】
+
+🔹 **ClaimConnect** — Insurance claim platform using Microservices & React  
+🔹 **MedSync** — Hospital management system with JWT auth, MySQL, Spring  
+🔹 **Travel Booking System** — Java console app + JDBC backend  
+🔹 *(More in [my repos](https://github.com/muchurammahesh))*  
+
+---
+
+## 【 𝐆𝐈𝐓𝐇𝐔𝐁 𝐒𝐓𝐀𝐓𝐒 & 𝐀𝐂𝐓𝐈𝐕𝐈𝐓𝐘 】  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=muchurammahesh&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muchurammahesh&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=tokyonight" height="165"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=muchurammahesh&theme=tokyonight&no-frame=true&row=1&column=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muchurammahesh&theme=tokyonight&no-frame=true" alt="Trophies" />
 </p>
 
 ---
 
-<!--# 🐍 Contribution Graph  
+## 【 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍𝐒 】  
 
 <p align="center">
-  <img src="https://github.com/muchurammahesh/muchurammahesh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p> -->
+  <img src="https://raw.githubusercontent.com/muchurammahesh/muchurammahesh/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
-# 🏆 Coding Profiles  
+## 🏅 **Competitive / Coding Profile**
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/muchurammahesh?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/muchurammahesh?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/muchurammahesh0">
-    <img src="https://img.shields.io/badge/HackerRank-%231ba94c.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-%231ba94c?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile" />
   </a>
 </p>
 
 ---
 
-# 🌐 Connect With Me  
+## 🌐 𝐂𝐎𝐍𝐍𝐄𝐂𝐓 𝐖𝐈𝐓𝐇 𝐌𝐄  
 
 <p align="center">
-  <a href="https://muchuram-mahesh-fullstack-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300C4FF.svg?&style=for-the-badge&logo=web&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahesh-muchuram-598574333/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/muchurammahesh" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/muchurammahesh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://muchuram-mahesh-fullstack-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C4FF?style=for-the-badge&logo=web&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahesh-muchuram-598574333/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/muchurammahesh"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/muchurammahesh/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
 
+## ✨ Animated Outro  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Please+star+the+repos+you+loved+⭐;Let's+Connect+and+Build+Something+Awesome+🚀;Keep+Coding+%26+Keep+Growing+🔥" alt="animated outro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Please+star+the+repos+you+loved+⭐;Let's+Connect+and+Build+Something+Awesome+🚀;Keep+Coding+%26+Keep+Growing+🔥" alt="Animated Outro" />
 </p>
 
-<!-- Footer -->
+<!--[Footer Wave Graphic]-->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer)
+
+⭐ If you found something useful here, star my repos or drop a follow!
