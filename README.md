@@ -1,5 +1,9 @@
-<!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muchuram%20Mahesh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<!-- Animated Header with Dark/Light Auto-detection -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muchuram%20Mahesh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=200&section=header&text=Muchuram%20Mahesh%20🚀&fontSize=40&fontColor=000000&animation=fadeIn" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muchuram%20Mahesh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</picture>
 
 <!-- Typing Intro -->
 <p align="center">
@@ -21,8 +25,7 @@
 
 | Programming | Backend | Frontend | Databases | Cloud / DevOps | Tools & Testing |
 |-------------|---------|----------|-----------|----------------|-----------------|
-| **Java (Core & Advanced)** ☕ ✅🔥 | **Spring Boot** 🌱, Spring Framework, Spring Security ⚡ | **React.js (ES6+)** ⚛ ⭐ | **MySQL, SQL, H2** 🛢 ⚡ | **AWS** ☁, **Docker** 🐳, **Jenkins (CI/CD)** ⚙️ ⚡ | Git, GitHub, Maven, Postman, Swagger ✅ |
-| **DSA & Problem Solving** 📊 🔥 | **Microservices** (Eureka, Config Server, API Gateway, Feign) ⭐ | HTML5, CSS3, JavaScript, Bootstrap 🎨 ✅ | Hibernate ORM & Entity Mapping ⚙️ ⭐ | DevOps Exposure 🚀 ⭐ | JUnit, Mockito, SonarQube 🧪 ⚡ |
+| ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) <br/> ![DSA](https://img.shields.io/badge/DSA-%2300599C.svg?logo=leetcode&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white) <br/> ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?logo=springsecurity&logoColor=white) <br/> ![Microservices](https://img.shields.io/badge/Microservices-%23007396.svg?logo=microsoftazure&logoColor=white) | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black) <br/> ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white) ![H2](https://img.shields.io/badge/H2-%23007396.svg?logo=databricks&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?logo=hibernate&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?logo=swagger&logoColor=black) ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-%236DB33F.svg?logo=java&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?logo=sonarqube&logoColor=white) |
 
 ---
 
@@ -79,5 +82,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Please+star+the+repos+you+loved+⭐;Let's+Connect+and+Build+Something+Awesome+🚀;Keep+Coding+%26+Keep+Growing+🔥" alt="animated outro" />
 </p>
 
-<!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer)
+<!-- Footer with Dark/Light Auto-detection -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:66a6ff,100:89f7fe&height=150&section=footer" />
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer" />
+</picture>
