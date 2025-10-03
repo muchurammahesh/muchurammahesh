@@ -83,9 +83,8 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙; please star the repo's you loved; Lets+Connect+and+Build+Something+Awesome+🚀;Keep+Coding+%26+Keep+Growing+🔥" alt="animated outro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Please+star+the+repos+you+loved+⭐;Let's+Connect+and+Build+Something+Awesome+🚀;Keep+Coding+%26+Keep+Growing+🔥" alt="animated outro" />
 </p>
 
 <!-- Footer -->
