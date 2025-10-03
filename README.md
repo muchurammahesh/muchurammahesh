@@ -8,6 +8,11 @@
 
 ---
 
+<!-- Animated Divider 1 - soft wave (matches header colors) -->
+<p align="center">
+  <img alt="divider-wave-1" src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,100:2c5364&height=90&section=divider&animation=glow" width="100%"/>
+</p>
+
 # 👋 About Me  
 
 💻 Passionate and results-driven **Java Full Stack Developer** with expertise in **Java, Spring Boot, React.js, Hibernate, MySQL, and Microservices**.  
@@ -16,6 +21,11 @@
 ✨ Motto: *“Keep learning, never stop building.”*  
 
 ---
+
+<!-- Animated Divider 2 - diagonal cut with gradient accent -->
+<p align="center">
+  <img alt="divider-diagonal" src="https://capsule-render.vercel.app/api?type=diagonal&color=0:00F7FF,100:FF6EC7&height=80&section=divider&animation=glow" width="100%"/>
+</p>
 
 # 【 SKILLS 】  
 
@@ -26,6 +36,11 @@
 
 ---
 
+<!-- Animated Divider 3 - soft double-wave -->
+<p align="center">
+  <img alt="divider-double-wave" src="https://capsule-render.vercel.app/api?type=double-wave&color=0:2c5364,100:0f2027&height=90&section=divider&animation=glow" width="100%"/>
+</p>
+
 # 🚀 Projects  
 
 🔹 **ClaimConnect** – Insurance Claim System using Spring Boot Microservices + React.  
@@ -35,6 +50,11 @@
 👉 *More projects on my GitHub → [muchurammahesh](https://github.com/muchurammahesh)*  
 
 ---
+
+<!-- Animated Divider 4 - neon curve -->
+<p align="center">
+  <img alt="divider-neon-curve" src="https://capsule-render.vercel.app/api?type=curved&color=0:00F7FF,100:FF6EC7&height=90&section=divider&animation=glow" width="100%"/>
+</p>
 
 # 📊 GitHub Stats  
 
@@ -50,13 +70,10 @@
 
 ---
 
-<!--# 🐍 Contribution Graph  
-
+<!-- Animated Divider 5 - thin animated ribbon -->
 <p align="center">
-  <img src="https://github.com/muchurammahesh/muchurammahesh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p> -->
-
----
+  <img alt="divider-ribbon" src="https://capsule-render.vercel.app/api?type=ribbon&color=0:0f2027,100:00F7FF&height=60&section=divider&animation=glow" width="100%"/>
+</p>
 
 # 🏆 Coding Profiles  
 
@@ -71,6 +88,11 @@
 </p>
 
 ---
+
+<!-- Animated Divider 6 - glowing footer transition -->
+<p align="center">
+  <img alt="divider-footer" src="https://capsule-render.vercel.app/api?type=wave&color=0:2c5364,100:0f2027&height=110&section=divider&animation=glow" width="100%"/>
+</p>
 
 # 🌐 Connect With Me  
 
