@@ -42,13 +42,39 @@
 # 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats"/>
-  <img src="https://streak-stats.demolab.com?user=muchurammahesh&theme=tokyonight" height="165" alt="GitHub streaks"/>
+
+<!-- GitHub Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=default" />
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=tokyonight" />
+</picture>
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=muchurammahesh&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=muchurammahesh&theme=default" />
+  <img height="165" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=muchurammahesh&theme=tokyonight" />
+</picture>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=tokyonight" height="165" alt="Top languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=muchurammahesh&theme=tokyonight&no-frame=true&row=1&column=6" height="165" alt="Trophies"/>
+
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=tokyonight" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=default" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=tokyonight" />
+</picture>
+
+<!-- Trophies -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=muchurammahesh&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=muchurammahesh&theme=flat&no-frame=true&row=1&column=6" />
+  <img height="165" alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=muchurammahesh&theme=tokyonight&no-frame=true&row=1&column=6" />
+</picture>
+
 </p>
 
 ---
