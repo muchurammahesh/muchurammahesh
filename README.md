@@ -17,25 +17,12 @@
 
 ---
 
-# 🛠️ Skills  
+# 【 SKILLS 】  
 
-<p align="center">
-  
-| Skill | Expertise |
-|-------|-----------|
-| ☕ **Java (Core & Advanced), Spring Boot** | ![90%](https://progress-bar.dev/90/?title=90%) |
-| 🌱 **Spring (Framework, JPA, Security)** | ![85%](https://progress-bar.dev/85/?title=85%) |
-| 🔗 **Microservices (Eureka, Config, Gateway, Feign)** | ![80%](https://progress-bar.dev/80/?title=80%) |
-| 🗂️ **Hibernate ORM & Entity Mapping** | ![75%](https://progress-bar.dev/75/?title=75%) |
-| ⚛ **React.js (ES6+)** | ![65%](https://progress-bar.dev/65/?title=65%) |
-| 🎨 **Frontend (HTML5, CSS3, JS, Bootstrap)** | ![80%](https://progress-bar.dev/80/?title=80%) |
-| 🔌 **RESTful APIs & Integrations** | ![85%](https://progress-bar.dev/85/?title=85%) |
-| 🛢️ **Databases (SQL, MySQL, H2)** | ![75%](https://progress-bar.dev/75/?title=75%) |
-| 🛠️ **Git, GitHub, Maven, Postman, Swagger** | ![75%](https://progress-bar.dev/75/?title=75%) |
-| 🧪 **Testing (JUnit, Mockito, SonarQube)** | ![70%](https://progress-bar.dev/70/?title=70%) |
-| 🐳 **Docker, ☁ AWS, ⚙ Jenkins (CI/CD)** | ![70%](https://progress-bar.dev/70/?title=70%) |
-
-</p>
+| Programming | Backend | Frontend | Databases | Cloud / DevOps | Tools & Testing |
+|-------------|---------|----------|-----------|----------------|-----------------|
+| **Java (Core & Advanced)** ☕ ✅🔥 | **Spring Boot** 🌱, Spring Framework, Spring Security ⚡ | **React.js (ES6+)** ⚛ ⭐ | **MySQL, SQL, H2** 🛢 ⚡ | **AWS** ☁, **Docker** 🐳, **Jenkins (CI/CD)** ⚙️ ⚡ | Git, GitHub, Maven, Postman, Swagger ✅ |
+| **DSA & Problem Solving** 📊 🔥 | **Microservices** (Eureka, Config Server, API Gateway, Feign) ⭐ | HTML5, CSS3, JavaScript, Bootstrap 🎨 ✅ | Hibernate ORM & Entity Mapping ⚙️ ⭐ | DevOps Exposure 🚀 ⭐ | JUnit, Mockito, SonarQube 🧪 ⚡ |
 
 ---
 
@@ -63,11 +50,11 @@
 
 ---
 
-# 🐍 Contribution Graph  
+<!--# 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muchurammahesh/muchurammahesh/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+  <img src="https://github.com/muchurammahesh/muchurammahesh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p> -->
 
 ---
 
@@ -96,7 +83,11 @@
 
 ---
 
-⭐ If you like my work, **star my repositories** and let’s connect! 🚀  
+# ✨ Animated Outro  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Let's+Connect+and+Build+Something+Awesome+🚀;Keep+Coding+%26+Keep+Growing+🔥" alt="animated outro" />
+</p>
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer)
