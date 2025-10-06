@@ -23,9 +23,8 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://i.imgur.com/5c0nTQv.png" alt="Coffee Frog" width="200">
+  <img src="https://i.imgur.com/yY9RZsN.gif" alt="Party Penguin" width="180">
 </p>
 
 
