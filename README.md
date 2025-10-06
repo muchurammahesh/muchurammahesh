@@ -23,7 +23,7 @@
 
 ---
 <p align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width="100">
+  <img src="https://gifdb.com/images/high/doraemon-mii-chan-kiss-8eeqi7o8r80v96xm.gif" alt="Doraemon Kiss" width="300">
 </p>
 
 
