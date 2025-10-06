@@ -5,9 +5,19 @@
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muchuram%20Mahesh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </picture>
 
-<!-- Typing Intro with Gradient Scroll Animation -->
+<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&duration=3000&center=true&vCenter=true&width=650&gradient=true&color=00F7FF,FF6EC7,FFD700,00FF7F,00F7FF&lines=Hey+👋+I'm+Muchuram+Mahesh!;Java+Full+Stack+Developer;LeetCode+%7C+GitHub+Contributor;Spring+Boot+%7C+Microservices+%7C+React;Problem+Solver+%7C+Open+Source+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Muchuram+Mahesh!;Java+Full+Stack+Developer;LeetCode+%7C+GitHub+Contributor;Spring+Boot+%7C+Microservices+%7C+React;Problem+Solver+%7C+Open+Source+Explorer" alt="Typing SVG" />
+</p>
+
+<!-- 🔗 Navigation Menu -->
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-skills">Skills</a> •
+  <a href="#-projects">Projects</a> •
+  <a href="#-github-stats">Stats</a> •
+  <a href="#-coding-profiles">Profiles</a> •
+  <a href="#-connect-with-me">Connect</a>
 </p>
 
 ---
