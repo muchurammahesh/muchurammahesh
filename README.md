@@ -27,8 +27,10 @@
 
 </td>
 <td width="30%" align="center">
+<div align="center">
+  <img src="https://octodex.github.com/images/hulatocat.png" width="200" alt="Hulatocat"/>
+</div>
 
-![Hulatocat](https://octodex.github.com/images/hulatocat.png)
 
 </td>
 </tr>
