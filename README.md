@@ -5,6 +5,11 @@
   <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muchuram%20Mahesh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </picture>
 
+<!-- =================== TYPING INTRO =================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Muchuram+Mahesh!;A+Passionate+Java+Full+Stack+Developer+💻;Spring+Boot+%7C+React+%7C+Microservices;Problem+Solver+%26+Open+Source+Explorer+🚀" alt="Typing Intro" />
+</p>
+
 ---
 
 # 👋 About Me  
@@ -83,6 +88,24 @@
   <a href="https://github.com/muchurammahesh" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/muchurammahesh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
+
+---
+
+<!-- Sticky Back to Top Button -->
+<p align="right">
+  <a href="#top">
+    <img src="https://img.icons8.com/ios-filled/50/00F7FF/collapse-arrow.png" width="40" height="40" title="Back to Top" style="animation: bounce 2s infinite;"/>
+  </a>
+</p>
+
+<!-- Back to Top Animation -->
+<style>
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+  40% { transform: translateY(-10px); }
+  60% { transform: translateY(-5px); }
+}
+</style>
 
 ---
 
