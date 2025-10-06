@@ -23,9 +23,12 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/octodex/Octodex/master/images/daftpunktocat-thomas.gif" alt="Daft Punk Octocat" width="200">
+  <img src="https://i.imgur.com/5c0nTQv.png" alt="Coffee Frog" width="200">
 </p>
+
+
 <!-- Animated gradient divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
