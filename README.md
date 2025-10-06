@@ -18,23 +18,24 @@
 
 <table>
 <tr>
-<td width="70%">
-  
+<td width="70%" style="vertical-align: top;">
+
 💻 Passionate and results-driven **Java Full Stack Developer** with expertise in **Java, Spring Boot, React.js, Hibernate, MySQL, and Microservices**.  
 🌱 Exploring **Cloud & DevOps (AWS, Docker, Jenkins, CI/CD)** while mastering **DSA**.  
 🚀 Strong foundation in **data structures & algorithms**, enabling efficient and scalable solutions.  
 ✨ Motto: *“Keep learning, never stop building.”*  
 
 </td>
-<td width="30%" align="center">
-<div align="center">
-  <img src="https://octodex.github.com/images/hulatocat.png" width="200" alt="Hulatocat"/>
-</div>
-
+<td width="30%" align="center" style="vertical-align: middle;">
+  
+<p align="center">
+  <img src="https://octodex.github.com/images/hulatocat.png" alt="Hulatocat" width="200"/>
+</p>
 
 </td>
 </tr>
 </table>
+
 
 
 <!-- Animated gradient divider -->
