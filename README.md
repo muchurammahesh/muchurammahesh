@@ -17,10 +17,23 @@
 
 # 👋 About Me  
 
+<table>
+<tr>
+<td width="70%">
+  
 💻 Passionate and results-driven **Java Full Stack Developer** with expertise in **Java, Spring Boot, React.js, Hibernate, MySQL, and Microservices**.  
 🌱 Exploring **Cloud & DevOps (AWS, Docker, Jenkins, CI/CD)** while mastering **DSA**.  
 🚀 Strong foundation in **data structures & algorithms**, enabling efficient and scalable solutions.  
-✨ Motto: *“Keep learning, never stop building.”*
+✨ Motto: *“Keep learning, never stop building.”*  
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://octodex.github.com/images/hulatocat.png" width="200" alt="Hulatocat"/>
+
+</td>
+</tr>
+</table>
 
 <!-- Animated gradient divider -->
 <p align="center">
@@ -116,16 +129,16 @@
   <a href="https://leetcode.com/u/muchurammahesh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
+<!-- Sticky Back to Top Button -->
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 100;">
+  <a href="#top">
+    <img src="https://img.icons8.com/ios-filled/50/00F7FF/collapse-arrow.png" width="40" height="40" title="Back to Top"/>
+  </a>
+</div>
+
 <!-- Animated gradient divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
-</p>
-
-<!-- Back to Top Button -->
-<p align="right">
-  <a href="#top">
-    <img src="https://img.icons8.com/ios-filled/50/00F7FF/collapse-arrow.png" width="35" height="35" title="Back to Top"/>
-  </a>
 </p>
 
 <p align="center">
