@@ -23,10 +23,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://octodex.github.com/images/hulatocat.png" alt="Hulatocat" width="200"/>
-</div>
-
+<p align="center">
+  <img src="https://octodex.github.com/images/robotocat.png" alt="Robotocat" width="200">
+</p>
 
 <!-- Animated gradient divider -->
 <p align="center">
