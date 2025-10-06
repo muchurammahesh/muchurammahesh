@@ -22,9 +22,8 @@
 ✨ Motto: *“Keep learning, never stop building.”*  
 
 ---
-
 <p align="center">
-  <img src="https://i.imgur.com/yY9RZsN.gif" alt="Party Penguin" width="180">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" alt="Party Parrot" width="100">
 </p>
 
 
