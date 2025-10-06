@@ -5,23 +5,27 @@
   <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Muchuram%20Mahesh%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </picture>
 
-<!-- Typing Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+👋+I'm+Muchuram+Mahesh!;A+Passionate+Java+Full+Stack+Developer+💻;Spring+Boot+%7C+React+%7C+Microservices;Problem+Solver+%26+Open+Source+Explorer+🚀" alt="Typing Intro" />
-</p>
-
 ---
 
 # 👋 About Me  
+
+<table>
+<tr>
+<td width="70%">
 
 💻 Passionate and results-driven **Java Full Stack Developer** skilled in **Java, Spring Boot, React.js, Hibernate, MySQL, and Microservices**.  
 🌱 Currently exploring **Cloud & DevOps (AWS, Docker, Jenkins, CI/CD)** while sharpening **DSA**.  
 🚀 Solid foundation in **data structures & algorithms**, building scalable and efficient apps.  
 ✨ Motto: *“Keep learning, never stop building.”*  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Funny Developer Animation"/>
-</p>
+</td>
+<td width="30%" align="center">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="180" alt="Funny Developer Animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -46,24 +50,14 @@
 # 📊 GitHub Stats  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=tokyonight&title_color=00F7FF&icon_color=FFD700&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=muchurammahesh&theme=tokyonight&ring=FFD700&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=muchurammahesh&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=tokyonight" alt="Top Languages"/>  
   <img height="165" src="https://github-profile-trophy.vercel.app/?username=muchurammahesh&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>  
 </p>
-
----
-
-# 📅 Contribution Activity  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muchurammahesh&theme=tokyo-night&bg_color=0f2027&color=00F7FF&line=2c5364&point=FFD700" alt="Contribution Graph" />
-</p>
-
-<p align="center"><b>📈 124 contributions in the last year</b></p>
 
 ---
 
@@ -90,25 +84,12 @@
   <a href="https://leetcode.com/u/muchurammahesh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
-<!-- Floating Back to Top Button -->
-<p align="right">
-  <a href="#top">
-    <img src="https://img.icons8.com/emoji/48/rocket.png" width="45" height="45" title="Back to Top" style="animation: bounce 2s infinite; position: fixed; bottom: 20px; right: 20px;"/>
-  </a>
-</p>
+---
 
-<!-- Animation -->
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
-  40% {transform: translateY(-10px);}
-  60% {transform: translateY(-5px);}
-}
-</style>
+# 🎉 Thanks for visiting!
 
-<!-- OUTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Star+the+repos+you+like+⭐;Let's+Connect+and+Build+Together+🚀;Keep+Coding+and+Keep+Growing+🔥" alt="animated outro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Please+star+the+repos+you+like+⭐;Let's+Connect+and+Build+Together+🚀;Keep+Coding+%26+Keep+Growing+🔥" alt="Outro Typing"/>
 </p>
 
 <!-- =================== FOOTER =================== -->
