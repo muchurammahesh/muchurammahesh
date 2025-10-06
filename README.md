@@ -14,7 +14,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
 </p>
-
 # 👋 About Me  
 
 <table>
@@ -29,11 +28,12 @@
 </td>
 <td width="30%" align="center">
 
-<img src="https://octodex.github.com/images/hulatocat.png" width="200" alt="Hulatocat"/>
+![Hulatocat](https://octodex.github.com/images/hulatocat.png)
 
 </td>
 </tr>
 </table>
+
 
 <!-- Animated gradient divider -->
 <p align="center">
