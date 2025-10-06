@@ -10,17 +10,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hey+👋+I'm+Muchuram+Mahesh!;Java+Full+Stack+Developer;LeetCode+%7C+GitHub+Contributor;Spring+Boot+%7C+Microservices+%7C+React;Problem+Solver+%7C+Open+Source+Explorer" alt="Typing SVG" />
 </p>
 
-<!-- 🔗 Navigation Menu -->
+<!-- Animated gradient divider -->
 <p align="center">
-  <a href="#-about-me">About</a> •
-  <a href="#-skills">Skills</a> •
-  <a href="#-projects">Projects</a> •
-  <a href="#-github-stats">Stats</a> •
-  <a href="#-coding-profiles">Profiles</a> •
-  <a href="#-connect-with-me">Connect</a>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
 </p>
-
----
 
 # 👋 About Me  
 
@@ -29,7 +22,10 @@
 🚀 Strong foundation in **data structures & algorithms**, enabling efficient and scalable solutions.  
 ✨ Motto: *“Keep learning, never stop building.”*
 
----
+<!-- Animated gradient divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
 
 # 【 SKILLS 】
 
@@ -37,7 +33,10 @@
 |-------------|---------|----------|-----------|----------------|-----------------|
 | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) <br/> ![DSA](https://img.shields.io/badge/DSA-%2300599C.svg?logo=leetcode&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white) <br/> ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?logo=springsecurity&logoColor=white) <br/> ![Microservices](https://img.shields.io/badge/Microservices-%23007396.svg?logo=microsoftazure&logoColor=white) | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black) <br/> ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white) ![H2](https://img.shields.io/badge/H2-%23007396.svg?logo=databricks&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?logo=hibernate&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?logo=jenkins&logoColor=white) | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?logo=swagger&logoColor=black) ![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-%236DB33F.svg?logo=java&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?logo=sonarqube&logoColor=white) |
 
----
+<!-- Animated gradient divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
 
 # 🚀 Projects  
 
@@ -47,20 +46,21 @@
 
 👉 *More projects on my GitHub → [muchurammahesh](https://github.com/muchurammahesh)*
 
----
+<!-- Animated gradient divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
 
 # 📊 GitHub Stats  
 
 <p align="center">
 
-<!-- GitHub Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=tokyonight" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=default" />
   <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muchurammahesh&show_icons=true&theme=tokyonight" />
 </picture>
 
-<!-- Streak Stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=muchurammahesh&theme=tokyonight" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=muchurammahesh&theme=default" />
@@ -71,14 +71,12 @@
 
 <p align="center">
 
-<!-- Top Languages -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=tokyonight" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=default" />
   <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchurammahesh&layout=compact&theme=tokyonight" />
 </picture>
 
-<!-- Trophies -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=muchurammahesh&theme=tokyonight&no-frame=true&row=1&column=6" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=muchurammahesh&theme=flat&no-frame=true&row=1&column=6" />
@@ -87,7 +85,10 @@
 
 </p>
 
----
+<!-- Animated gradient divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
 
 # 🏆 Coding Profiles  
 
@@ -101,7 +102,10 @@
   </a>
 </p>
 
----
+<!-- Animated gradient divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
 
 # 🌐 Connect With Me  
 
@@ -112,13 +116,23 @@
   <a href="https://leetcode.com/u/muchurammahesh/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
----
+<!-- Animated gradient divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="4">
+</p>
+
+<!-- Back to Top Button -->
+<p align="right">
+  <a href="#top">
+    <img src="https://img.icons8.com/ios-filled/50/00F7FF/collapse-arrow.png" width="35" height="35" title="Back to Top"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+💙;Please+star+the+repos+you+loved+⭐;Let's+Connect+and+Build+Something+Nice+🚀;Keep+Coding+%26+Keep+Growing+🔥" alt="animated outro" />
 </p>
 
-<!-- Footer with Dark/Light Auto-detection -->
+<!-- Footer -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=150&section=footer" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:66a6ff,100:89f7fe&height=150&section=footer" />
